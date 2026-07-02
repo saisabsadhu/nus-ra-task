@@ -1,4 +1,4 @@
-# Audit Report: RB + SA Answer-or-Abstain System
+# Report: RB + SA Answer-or-Abstain System
 
 **Saisab Sadhu**
 
