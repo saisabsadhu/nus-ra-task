@@ -7,5 +7,3 @@ This is my submission for the take-home study on the RB + SA answer-or-abstain s
 `Results/` is everything that was shared with me alongside the code: the reported summaries for all four benchmarks, the checkpoints from the Gemini and Qwen3 runs, and the underlying datasets. A fair amount of what's in there — the KUQ and UnknownBench numbers, the Gemini/Qwen3 results, a few benchmark runs that never made it into the README — has no accompanying source code, which is itself one of the findings in the report.
 
 To reproduce the new experiment, see the "How to reproduce" section of `report.md`; it needs a GPU and about an hour for the full-scale run, or a few minutes at reduced scale.
-
-I used Claude (Claude Code) through this exercise, for reading and cross-referencing the code and result files, running literature searches, implementing the new test condition, running the experiments, and drafting the report. That's noted again at the end of `report.md`. The findings and the decisions about what to check and how to read the results are mine.
